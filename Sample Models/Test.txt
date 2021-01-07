@@ -1,0 +1,13 @@
+Test
+1
+F
+1000
+0.1
+T
+None
+False
+C:\Users\JXYTi\Desktop\Jason's files\School\Grade 12 (2019-2020)\Computer Science
+News Dataset.csv
+0.2
+label
+text
